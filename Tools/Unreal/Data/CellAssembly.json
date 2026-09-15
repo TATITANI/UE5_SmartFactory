@@ -1,0 +1,4204 @@
+[
+  {
+    "name": "StaticMeshComponent_0",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      -38.0,
+      -7.000000000000001
+    ],
+    "scale": [
+      4.7,
+      3.55,
+      0.14
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryFloor.MI_FactoryFloor"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_1",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -225.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_2",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -200.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_3",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -175.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_4",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -150.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_5",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -125.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_6",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -100.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_7",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -75.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_8",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -50.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_9",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -25.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_10",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_11",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_12",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      50.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_13",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      75.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_14",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      100.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_15",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      125.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_16",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      150.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_17",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      175.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_18",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      200.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_19",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      225.0,
+      -38.0,
+      0.2
+    ],
+    "scale": [
+      0.006,
+      3.45,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_20",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      125.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_21",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      100.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_22",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      75.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_23",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      50.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_24",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      25.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_25",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      0.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_26",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      -25.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_27",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      -50.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_28",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      -75.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_29",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      -100.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_30",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      -125.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_31",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      -150.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_32",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      -175.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_33",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      0.0,
+      -200.0,
+      0.3
+    ],
+    "scale": [
+      4.6,
+      0.006,
+      0.002
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryGrid.MI_FactoryGrid"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_34",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -194.0,
+      -39.0,
+      0.8999999999999999
+    ],
+    "scale": [
+      0.045,
+      2.35,
+      0.006
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_35",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      160.0,
+      -39.0,
+      0.8999999999999999
+    ],
+    "scale": [
+      0.045,
+      2.35,
+      0.006
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_36",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -17.0,
+      78.0,
+      0.8999999999999999
+    ],
+    "scale": [
+      3.58,
+      0.045,
+      0.006
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_37",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -17.0,
+      -156.0,
+      0.8999999999999999
+    ],
+    "scale": [
+      3.58,
+      0.045,
+      0.006
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_38",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -155.0,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_39",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -129.0,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_40",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -103.0,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_41",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -77.0,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_42",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -51.0,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_43",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -25.0,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_44",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      1.0000000000000009,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_45",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      27.0,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_46",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      53.0,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_47",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      78.99999999999999,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_48",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      105.0,
+      61.0,
+      1.0
+    ],
+    "scale": [
+      0.13,
+      0.055,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      45.00000000000002,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_49",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -60.0,
+      0.0,
+      61.0
+    ],
+    "scale": [
+      2.22,
+      0.57,
+      0.16
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_50",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -60.0,
+      0.0,
+      70.39999999999999
+    ],
+    "scale": [
+      2.16,
+      0.46,
+      0.03
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBelt.MI_FactoryBelt"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_51",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -60.0,
+      27.900000000000002,
+      68.69999999999999
+    ],
+    "scale": [
+      2.27,
+      0.04,
+      0.12
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryCyan.MI_FactoryCyan"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_52",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -60.0,
+      30.100000000000005,
+      69.19999999999999
+    ],
+    "scale": [
+      2.16,
+      0.012,
+      0.037
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_53",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -148.0,
+      22.5,
+      30.0
+    ],
+    "scale": [
+      0.075,
+      0.075,
+      0.59
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_54",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -148.0,
+      22.5,
+      2.6
+    ],
+    "scale": [
+      0.16,
+      0.15,
+      0.052
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_55",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -152.8,
+      22.5,
+      5.7
+    ],
+    "scale": [
+      0.024,
+      0.024,
+      0.016
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_56",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -143.2,
+      22.5,
+      5.7
+    ],
+    "scale": [
+      0.024,
+      0.024,
+      0.016
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_57",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      22.5,
+      30.0
+    ],
+    "scale": [
+      0.075,
+      0.075,
+      0.59
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_58",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      22.5,
+      2.6
+    ],
+    "scale": [
+      0.16,
+      0.15,
+      0.052
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_59",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      20.200000000000003,
+      22.5,
+      5.7
+    ],
+    "scale": [
+      0.024,
+      0.024,
+      0.016
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_60",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      29.799999999999997,
+      22.5,
+      5.7
+    ],
+    "scale": [
+      0.024,
+      0.024,
+      0.016
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_61",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -60.0,
+      22.5,
+      20.0
+    ],
+    "scale": [
+      1.8000000000000003,
+      0.038,
+      0.045
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_62",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -60.0,
+      -27.900000000000002,
+      68.69999999999999
+    ],
+    "scale": [
+      2.27,
+      0.04,
+      0.12
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryCyan.MI_FactoryCyan"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_63",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -60.0,
+      -30.100000000000005,
+      69.19999999999999
+    ],
+    "scale": [
+      2.16,
+      0.012,
+      0.037
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_64",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -148.0,
+      -22.5,
+      30.0
+    ],
+    "scale": [
+      0.075,
+      0.075,
+      0.59
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_65",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -148.0,
+      -22.5,
+      2.6
+    ],
+    "scale": [
+      0.16,
+      0.15,
+      0.052
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_66",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -152.8,
+      -22.5,
+      5.7
+    ],
+    "scale": [
+      0.024,
+      0.024,
+      0.016
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_67",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -143.2,
+      -22.5,
+      5.7
+    ],
+    "scale": [
+      0.024,
+      0.024,
+      0.016
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_68",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -22.5,
+      30.0
+    ],
+    "scale": [
+      0.075,
+      0.075,
+      0.59
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_69",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -22.5,
+      2.6
+    ],
+    "scale": [
+      0.16,
+      0.15,
+      0.052
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_70",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      20.200000000000003,
+      -22.5,
+      5.7
+    ],
+    "scale": [
+      0.024,
+      0.024,
+      0.016
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_71",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      29.799999999999997,
+      -22.5,
+      5.7
+    ],
+    "scale": [
+      0.024,
+      0.024,
+      0.016
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_72",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -60.0,
+      -22.5,
+      20.0
+    ],
+    "scale": [
+      1.8000000000000003,
+      0.038,
+      0.045
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_73",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -168.00000000000003,
+      0.0,
+      65.99999999999999
+    ],
+    "scale": [
+      0.13,
+      0.13,
+      0.49
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      -90.00000000000001
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_74",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -168.00000000000003,
+      29.5,
+      65.99999999999999
+    ],
+    "scale": [
+      0.08,
+      0.08,
+      0.045
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      -90.00000000000001
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_75",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      48.00000000000001,
+      0.0,
+      65.99999999999999
+    ],
+    "scale": [
+      0.13,
+      0.13,
+      0.49
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      -90.00000000000001
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_76",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      48.00000000000001,
+      29.5,
+      65.99999999999999
+    ],
+    "scale": [
+      0.08,
+      0.08,
+      0.045
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      -90.00000000000001
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_77",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      34.0,
+      -41.0,
+      60.5
+    ],
+    "scale": [
+      0.18,
+      0.18,
+      0.22
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      -90.00000000000001
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_78",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -168.00000000000003,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_79",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -159.6923076923077,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_80",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -151.38461538461542,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_81",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -143.0769230769231,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_82",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -134.7692307692308,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_83",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -126.46153846153847,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_84",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -118.15384615384616,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_85",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -109.84615384615385,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_86",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -101.53846153846156,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_87",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -93.23076923076924,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_88",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -84.92307692307693,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_89",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -76.61538461538463,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_90",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -68.30769230769232,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_91",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -60.00000000000001,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_92",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -51.69230769230771,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_93",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -43.38461538461538,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_94",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -35.076923076923094,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_95",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -26.769230769230788,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_96",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -18.461538461538463,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_97",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -10.153846153846136,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_98",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -1.846153846153853,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_99",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      6.461538461538452,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_100",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      14.769230769230756,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_101",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      23.076923076923084,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_102",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      31.384615384615387,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_103",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      39.69230769230769,
+      0.0,
+      72.2
+    ],
+    "scale": [
+      0.012,
+      0.442,
+      0.004
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySlats.MI_FactorySlats"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_104",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      32.0,
+      79.0
+    ],
+    "scale": [
+      0.036,
+      0.045,
+      0.24
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_105",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      32.0,
+      82.5
+    ],
+    "scale": [
+      0.07,
+      0.06,
+      0.064
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryCyan.MI_FactoryCyan"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_106",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -32.0,
+      79.0
+    ],
+    "scale": [
+      0.036,
+      0.045,
+      0.24
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_107",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -32.0,
+      82.5
+    ],
+    "scale": [
+      0.07,
+      0.06,
+      0.064
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryCyan.MI_FactoryCyan"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_108",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      0.0,
+      78.8
+    ],
+    "scale": [
+      0.006,
+      0.585,
+      0.006
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryCyan.MI_FactoryCyan"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_109",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      102.0,
+      -70.0,
+      66.49999999999999
+    ],
+    "scale": [
+      0.92,
+      1.3199999999999998,
+      0.07
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_110",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      65.0,
+      -11.919999999999998,
+      33.12
+    ],
+    "scale": [
+      0.055,
+      0.055,
+      0.6624
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_111",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      65.0,
+      -128.07999999999998,
+      33.12
+    ],
+    "scale": [
+      0.055,
+      0.055,
+      0.6624
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_112",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      140.0,
+      -11.919999999999998,
+      33.12
+    ],
+    "scale": [
+      0.055,
+      0.055,
+      0.6624
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_113",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      140.0,
+      -128.07999999999998,
+      33.12
+    ],
+    "scale": [
+      0.055,
+      0.055,
+      0.6624
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_114",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      90.0,
+      -40.0,
+      69.55
+    ],
+    "scale": [
+      0.67,
+      0.51,
+      0.037
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryRedTray.MI_FactoryRedTray"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_115",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      90.0,
+      -40.0,
+      71.7
+    ],
+    "scale": [
+      0.61,
+      0.45,
+      0.006
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_116",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      57.00000000000001,
+      -40.0,
+      76.6
+    ],
+    "scale": [
+      0.027,
+      0.53,
+      0.11
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryRedTray.MI_FactoryRedTray"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_117",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      123.0,
+      -40.0,
+      76.6
+    ],
+    "scale": [
+      0.027,
+      0.53,
+      0.11
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryRedTray.MI_FactoryRedTray"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_118",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      90.0,
+      -15.000000000000002,
+      76.6
+    ],
+    "scale": [
+      0.67,
+      0.023,
+      0.11
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryRedTray.MI_FactoryRedTray"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_119",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      90.0,
+      -65.0,
+      76.6
+    ],
+    "scale": [
+      0.67,
+      0.023,
+      0.11
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryRedTray.MI_FactoryRedTray"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_120",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      124.9,
+      -40.0,
+      76.6
+    ],
+    "scale": [
+      0.009,
+      0.2,
+      0.062
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryRed.MI_FactoryRed"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_121",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      90.0,
+      -100.0,
+      69.55
+    ],
+    "scale": [
+      0.67,
+      0.51,
+      0.037
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlueTray.MI_FactoryBlueTray"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_122",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      90.0,
+      -100.0,
+      71.7
+    ],
+    "scale": [
+      0.61,
+      0.45,
+      0.006
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_123",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      57.00000000000001,
+      -100.0,
+      76.6
+    ],
+    "scale": [
+      0.027,
+      0.53,
+      0.11
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlueTray.MI_FactoryBlueTray"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_124",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      123.0,
+      -100.0,
+      76.6
+    ],
+    "scale": [
+      0.027,
+      0.53,
+      0.11
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlueTray.MI_FactoryBlueTray"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_125",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      90.0,
+      -75.0,
+      76.6
+    ],
+    "scale": [
+      0.67,
+      0.023,
+      0.11
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlueTray.MI_FactoryBlueTray"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_126",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      90.0,
+      -125.0,
+      76.6
+    ],
+    "scale": [
+      0.67,
+      0.023,
+      0.11
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlueTray.MI_FactoryBlueTray"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_127",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      124.9,
+      -100.0,
+      76.6
+    ],
+    "scale": [
+      0.009,
+      0.2,
+      0.062
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlue.MI_FactoryBlue"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_128",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -68.0,
+      3.5999999999999996
+    ],
+    "scale": [
+      0.48,
+      0.48,
+      0.072
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_129",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -68.0,
+      36.0
+    ],
+    "scale": [
+      0.33,
+      0.33,
+      0.6749999999999999
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryCabinet.MI_FactoryCabinet"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_130",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -51.2,
+      36.0
+    ],
+    "scale": [
+      0.24,
+      0.008,
+      0.32
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_131",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -50.6,
+      48.0
+    ],
+    "scale": [
+      0.24,
+      0.006,
+      0.018
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryCyan.MI_FactoryCyan"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_132",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      25.0,
+      -68.0,
+      74.6
+    ],
+    "scale": [
+      0.396,
+      0.396,
+      0.055
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_133",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      25.0,
+      -68.0,
+      84.5
+    ],
+    "scale": [
+      0.3,
+      0.3,
+      0.16
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryOrange.MI_FactoryOrange"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_134",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      25.0,
+      -68.0,
+      77.8
+    ],
+    "scale": [
+      0.312,
+      0.312,
+      0.025
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_135",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      42.1,
+      -68.0,
+      78.0
+    ],
+    "scale": [
+      0.026,
+      0.026,
+      0.014
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_136",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      33.550000000000004,
+      -82.8090344047139,
+      78.0
+    ],
+    "scale": [
+      0.026,
+      0.026,
+      0.014
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_137",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      16.450000000000003,
+      -82.80903440471391,
+      78.0
+    ],
+    "scale": [
+      0.026,
+      0.026,
+      0.014
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_138",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      7.899999999999999,
+      -68.0,
+      78.0
+    ],
+    "scale": [
+      0.026,
+      0.026,
+      0.014
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_139",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      16.449999999999992,
+      -53.19096559528611,
+      78.0
+    ],
+    "scale": [
+      0.026,
+      0.026,
+      0.014
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_140",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      33.550000000000004,
+      -53.19096559528611,
+      78.0
+    ],
+    "scale": [
+      0.026,
+      0.026,
+      0.014
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_141",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -68.0,
+      95.0
+    ],
+    "scale": [
+      0.2,
+      0.19,
+      0.22
+    ],
+    "rotation": [
+      0.0,
+      89.99999999999999,
+      -0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryOrange.MI_FactoryOrange"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_142",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      25.0,
+      -68.0,
+      105.0
+    ],
+    "scale": [
+      0.216,
+      0.216,
+      0.245
+    ],
+    "rotation": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_143",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      12.1,
+      -68.0,
+      105.0
+    ],
+    "scale": [
+      0.15336,
+      0.15336,
+      0.016
+    ],
+    "rotation": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryOrange.MI_FactoryOrange"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_144",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      10.899999999999999,
+      -68.0,
+      105.0
+    ],
+    "scale": [
+      0.05616,
+      0.05616,
+      0.02
+    ],
+    "rotation": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_145",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      25.0,
+      -86.40984155877399,
+      167.33841298734544
+    ],
+    "scale": [
+      0.176,
+      0.176,
+      0.195
+    ],
+    "rotation": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_146",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      14.600000000000001,
+      -86.40984155877399,
+      167.33841298734544
+    ],
+    "scale": [
+      0.12495999999999999,
+      0.12495999999999999,
+      0.016
+    ],
+    "rotation": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryOrange.MI_FactoryOrange"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_147",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      13.4,
+      -86.40984155877399,
+      167.33841298734544
+    ],
+    "scale": [
+      0.04576,
+      0.04576,
+      0.02
+    ],
+    "rotation": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_148",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      25.0,
+      -33.0,
+      140.0
+    ],
+    "scale": [
+      0.124,
+      0.124,
+      0.14
+    ],
+    "rotation": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_149",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      17.299999999999997,
+      -33.0,
+      140.0
+    ],
+    "scale": [
+      0.08804,
+      0.08804,
+      0.016
+    ],
+    "rotation": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryOrange.MI_FactoryOrange"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_150",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      16.1,
+      -33.0,
+      140.0
+    ],
+    "scale": [
+      0.03224,
+      0.03224,
+      0.02
+    ],
+    "rotation": [
+      -90.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_151",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -77.204920779387,
+      136.16920649367273
+    ],
+    "scale": [
+      0.13,
+      0.15,
+      0.65
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      -16.45297651059239
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryOrange.MI_FactoryOrange"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_152",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -59.704920779386995,
+      153.6692064936727
+    ],
+    "scale": [
+      0.105,
+      0.115,
+      0.6
+    ],
+    "rotation": [
+      -0.0,
+      0.0,
+      117.10613444983564
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryOrange.MI_FactoryOrange"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_153",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -77.204920779387,
+      136.16920649367273
+    ],
+    "scale": [
+      0.07,
+      0.156,
+      0.4159999999999998
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      -16.452976510592393
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_154",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -59.704920779386995,
+      153.6692064936727
+    ],
+    "scale": [
+      0.045,
+      0.12,
+      0.36000000000000015
+    ],
+    "rotation": [
+      -0.0,
+      0.0,
+      117.1061344498357
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_155",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      25.0,
+      -33.0,
+      136.20000000000002
+    ],
+    "scale": [
+      0.104,
+      0.104,
+      0.082
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_156",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -33.0,
+      130.20000000000002
+    ],
+    "scale": [
+      0.11,
+      0.2,
+      0.065
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_157",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -24.3,
+      124.70000000000002
+    ],
+    "scale": [
+      0.035,
+      0.018,
+      0.11
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_158",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      25.0,
+      -41.7,
+      124.70000000000002
+    ],
+    "scale": [
+      0.035,
+      0.018,
+      0.11
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryLightSteel.MI_FactoryLightSteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_159",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -141.0,
+      -106.0,
+      8.0
+    ],
+    "scale": [
+      0.49,
+      0.42,
+      0.16
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_160",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -141.0,
+      -106.0,
+      61.0
+    ],
+    "scale": [
+      0.48,
+      0.38,
+      0.97
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryCabinet.MI_FactoryCabinet"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_161",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -141.0,
+      -85.9,
+      62.0
+    ],
+    "scale": [
+      0.425,
+      0.018,
+      0.87
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_162",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -124.0,
+      -83.89999999999999,
+      62.0
+    ],
+    "scale": [
+      0.017,
+      0.027,
+      0.14
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_163",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -144.0,
+      -83.7,
+      82.0
+    ],
+    "scale": [
+      0.25,
+      0.03,
+      0.2
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_164",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -144.0,
+      -81.8,
+      82.0
+    ],
+    "scale": [
+      0.214,
+      0.008,
+      0.161
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryCyan.MI_FactoryCyan"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_165",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -146.0,
+      -81.10000000000001,
+      86.0
+    ],
+    "scale": [
+      0.145,
+      0.006,
+      0.013
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryWhite.MI_FactoryWhite"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_166",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -146.0,
+      -81.10000000000001,
+      81.89999999999999
+    ],
+    "scale": [
+      0.12499999999999999,
+      0.006,
+      0.013
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryWhite.MI_FactoryWhite"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_167",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -146.0,
+      -81.10000000000001,
+      77.8
+    ],
+    "scale": [
+      0.10499999999999998,
+      0.006,
+      0.013
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryWhite.MI_FactoryWhite"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_168",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -152.0,
+      -82.69999999999999,
+      54.0
+    ],
+    "scale": [
+      0.07,
+      0.07,
+      0.025
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      -90.00000000000001
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_169",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -152.0,
+      -80.5,
+      54.0
+    ],
+    "scale": [
+      0.042,
+      0.042,
+      0.03
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      -90.00000000000001
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryRed.MI_FactoryRed"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_170",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -143.0,
+      -84.5,
+      36.0
+    ],
+    "scale": [
+      0.22,
+      0.009,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_171",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -143.0,
+      -84.5,
+      38.2
+    ],
+    "scale": [
+      0.22,
+      0.009,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_172",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -143.0,
+      -84.5,
+      40.4
+    ],
+    "scale": [
+      0.22,
+      0.009,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_173",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -143.0,
+      -84.5,
+      42.6
+    ],
+    "scale": [
+      0.22,
+      0.009,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_174",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -143.0,
+      -84.5,
+      44.8
+    ],
+    "scale": [
+      0.22,
+      0.009,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_175",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -141.0,
+      -106.0,
+      119.0
+    ],
+    "scale": [
+      0.036,
+      0.036,
+      0.2
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactorySteel.MI_FactorySteel"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_176",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -141.0,
+      -106.0,
+      131.0
+    ],
+    "scale": [
+      0.09,
+      0.09,
+      0.052
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_177",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -141.0,
+      -106.0,
+      128.2
+    ],
+    "scale": [
+      0.094,
+      0.094,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_178",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -141.0,
+      -106.0,
+      137.0
+    ],
+    "scale": [
+      0.09,
+      0.09,
+      0.052
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_179",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -141.0,
+      -106.0,
+      134.20000000000002
+    ],
+    "scale": [
+      0.094,
+      0.094,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_180",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -141.0,
+      -106.0,
+      143.00000000000003
+    ],
+    "scale": [
+      0.09,
+      0.09,
+      0.052
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_181",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -141.0,
+      -106.0,
+      140.20000000000002
+    ],
+    "scale": [
+      0.094,
+      0.094,
+      0.008
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_182",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCylinder.SM_FactoryCylinder",
+    "position": [
+      -141.0,
+      -106.0,
+      146.8
+    ],
+    "scale": [
+      0.094,
+      0.094,
+      0.017
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_183",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -184.0,
+      -149.0,
+      3.4000000000000004
+    ],
+    "scale": [
+      0.15,
+      0.14,
+      0.068
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_184",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -184.0,
+      -149.0,
+      37.0
+    ],
+    "scale": [
+      0.047,
+      0.047,
+      0.74
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_185",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -45.0,
+      -149.0,
+      3.4000000000000004
+    ],
+    "scale": [
+      0.15,
+      0.14,
+      0.068
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_186",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -45.0,
+      -149.0,
+      37.0
+    ],
+    "scale": [
+      0.047,
+      0.047,
+      0.74
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_187",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      153.0,
+      -149.0,
+      3.4000000000000004
+    ],
+    "scale": [
+      0.15,
+      0.14,
+      0.068
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryBlack.MI_FactoryBlack"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_188",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      153.0,
+      -149.0,
+      37.0
+    ],
+    "scale": [
+      0.047,
+      0.047,
+      0.74
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_189",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -15.5,
+      -149.0,
+      33.0
+    ],
+    "scale": [
+      3.37,
+      0.036,
+      0.04
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  },
+  {
+    "name": "StaticMeshComponent_190",
+    "mesh": "/Game/SmartFactory/Meshes/SM_FactoryCube.SM_FactoryCube",
+    "position": [
+      -15.5,
+      -149.0,
+      69.0
+    ],
+    "scale": [
+      3.37,
+      0.036,
+      0.04
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "materials": [
+      "/Game/SmartFactory/Materials/MI_FactoryYellow.MI_FactoryYellow"
+    ]
+  }
+]

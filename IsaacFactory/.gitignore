@@ -1,0 +1,7 @@
+downloads/
+runtime/
+outputs/
+__pycache__/
+tests/__pycache__/
+*.pyc
+local-install.json

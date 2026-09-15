@@ -1,0 +1,36 @@
+{
+  "conveyor": {
+    "start": [-1.45, 0.0, 0.72],
+    "pickup": [0.25, 0.0, 0.72],
+    "speed": 0.35
+  },
+  "robot": {
+    "base": [0.25, 0.68, 0.72],
+    "home": [0.25, 0.33, 1.25],
+    "grasp_offset": 0.075,
+    "clearance": 0.26
+  },
+  "product": {
+    "size": [0.08, 0.08, 0.08],
+    "colors": ["red", "blue"]
+  },
+  "bins": {
+    "red": [0.90, 0.40, 0.72],
+    "blue": [0.90, 1.00, 0.72]
+  },
+  "placement": {
+    "columns": 3,
+    "rows": 3,
+    "max_layers": 2,
+    "spacing": 0.11
+  },
+  "timing": {
+    "approaching": 0.8,
+    "picking": 0.6,
+    "lifting": 0.6,
+    "transferring": 1.2,
+    "placing": 0.7,
+    "releasing": 0.3,
+    "retracting": 1.0
+  }
+}

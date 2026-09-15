@@ -1,0 +1,92 @@
+{
+  "Metal": {
+    "asset": "/Game/Fab/Megascans/Surfaces/Scratched_Metal_uh4obh1c/High/uh4obh1c_tier_1/Materials/MI_uh4obh1c",
+    "listing": "https://www.fab.com/listings/122dff26-78f7-4c96-a0ae-57da2a656b0a",
+    "quality": "High",
+    "textures": {
+      "MetallicRoughnessTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Scratched_Metal_uh4obh1c/High/uh4obh1c_tier_1/Textures/T_uh4obh1c_4K_MR.T_uh4obh1c_4K_MR",
+        "width": 4096,
+        "height": 4096
+      }
+    }
+  },
+  "Paint": {
+    "asset": "/Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_tduwejdc/High/tduwejdc_tier_1/Materials/MI_tduwejdc",
+    "listing": "https://www.fab.com/listings/ef4f6dd7-4d8d-4a59-b0cf-ac12edbdc2cf",
+    "quality": "High",
+    "textures": {
+      "MetallicRoughnessTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Scratched_Painted_Metal_tduwejdc/High/tduwejdc_tier_1/Textures/T_tduwejdc_4K_MR.T_tduwejdc_4K_MR",
+        "width": 4096,
+        "height": 4096
+      }
+    }
+  },
+  "Concrete": {
+    "asset": "/Game/Fab/Megascans/Surfaces/Industrial_Concrete_Floor_sl2qedtp/High/sl2qedtp_tier_1/Materials/MI_sl2qedtp",
+    "listing": "https://www.fab.com/listings/2dece1ec-0941-406c-a7de-ae9fe08085a1",
+    "quality": "High",
+    "textures": {
+      "BaseColorTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Industrial_Concrete_Floor_sl2qedtp/High/sl2qedtp_tier_1/Textures/T_sl2qedtp_4K_B.T_sl2qedtp_4K_B",
+        "width": 4096,
+        "height": 4096
+      },
+      "NormalTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Industrial_Concrete_Floor_sl2qedtp/High/sl2qedtp_tier_1/Textures/T_sl2qedtp_4K_N.T_sl2qedtp_4K_N",
+        "width": 4096,
+        "height": 4096
+      },
+      "MetallicRoughnessTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Industrial_Concrete_Floor_sl2qedtp/High/sl2qedtp_tier_1/Textures/T_sl2qedtp_4K_ORM.T_sl2qedtp_4K_ORM",
+        "width": 4096,
+        "height": 4096
+      },
+      "HeightTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Industrial_Concrete_Floor_sl2qedtp/High/sl2qedtp_tier_1/Textures/T_sl2qedtp_4K_H.T_sl2qedtp_4K_H",
+        "width": 4096,
+        "height": 4096
+      }
+    }
+  },
+  "Rubber": {
+    "asset": "/Game/Fab/Megascans/Surfaces/Rubber_rmvtcjup/High/rmvtcjup_tier_1/Materials/MI_rmvtcjup",
+    "listing": "https://www.fab.com/listings/e81de902-92c5-47ba-bd8b-ad10be2605b6",
+    "quality": "High",
+    "textures": {
+      "MetallicRoughnessTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Rubber_rmvtcjup/High/rmvtcjup_tier_1/Textures/T_rmvtcjup_4K_MR.T_rmvtcjup_4K_MR",
+        "width": 4096,
+        "height": 4096
+      }
+    }
+  },
+  "Cardboard": {
+    "asset": "/Game/Fab/Megascans/Surfaces/Cardboard_qhenlop0/High/qhenlop0_tier_1/Materials/MI_qhenlop0",
+    "listing": "https://www.fab.com/listings/a086adb1-88a1-415c-9f7b-7528b2b79a0a",
+    "quality": "High",
+    "textures": {
+      "BaseColorTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Cardboard_qhenlop0/High/qhenlop0_tier_1/Textures/T_qhenlop0_4K_B.T_qhenlop0_4K_B",
+        "width": 4096,
+        "height": 4096
+      },
+      "NormalTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Cardboard_qhenlop0/High/qhenlop0_tier_1/Textures/T_qhenlop0_4K_N.T_qhenlop0_4K_N",
+        "width": 4096,
+        "height": 4096
+      },
+      "MetallicRoughnessTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Cardboard_qhenlop0/High/qhenlop0_tier_1/Textures/T_qhenlop0_4K_ORM.T_qhenlop0_4K_ORM",
+        "width": 4096,
+        "height": 4096
+      },
+      "HeightTexture": {
+        "path": "/Game/Fab/Megascans/Surfaces/Cardboard_qhenlop0/High/qhenlop0_tier_1/Textures/T_qhenlop0_4K_H.T_qhenlop0_4K_H",
+        "width": 4096,
+        "height": 4096
+      }
+    }
+  }
+}
